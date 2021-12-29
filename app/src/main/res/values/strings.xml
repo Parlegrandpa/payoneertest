@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PayoneerTest</string>
+    <string name="payoneer_logo">Payoneer Logo</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="no_record_found">No record found</string>
+    <string name="payment_methods">Payment methods</string>
+</resources>
